@@ -283,6 +283,11 @@ parse-svg-path@^0.1.2:
   resolved "https://registry.yarnpkg.com/parse-svg-path/-/parse-svg-path-0.1.2.tgz#7a7ec0d1eb06fa5325c7d3e009b859a09b5d49eb"
   integrity sha1-en7A0esG+lMlx9PgCbhZoJtdSes=
 
+prettier@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.2.tgz#ef280a05ec253712e486233db5c6f23441e7342d"
+  integrity sha512-lnJzDfJ66zkMy58OL5/NY5zp70S7Nz6KqcKkXYzn2tMVrNxvbqaBpg7H3qHaLxCJ5lNMsGuM8+ohS7cZrthdLQ==
+
 primitive-quad@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/primitive-quad/-/primitive-quad-2.0.0.tgz#c20993e4f9600238926bb500e529053043ef8aeb"
